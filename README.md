@@ -98,15 +98,6 @@ Cada exercício contém **prints da execução** e/ou **links para os projetos n
 
 ---
 
-## 👩‍💻 Autora
-
-**Johanna Liliana Liza Herrera**  
-📚 Estudante de Engenharia de Software – Instituto Infnet  
-📧 [Seu e-mail institucional ou profissional, se quiser incluir]  
-🔗 [Seu LinkedIn, se quiser incluir]
-
----
-
 ## 📅 Status do Projeto
 
 ✅ **TP1** – Concluído  
